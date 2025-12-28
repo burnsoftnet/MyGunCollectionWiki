@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "My Gun Collection Online Help"
+title                    : "My-Gun-Collection-Online-Help"
 title_separator          : "-"
 name                     : &name "Burnsoft.Net"
 description              : &description "My Gun Collection Application Online Help and Wiki"   # Update this with a general description of your site, this is the default if not overridden by a page
