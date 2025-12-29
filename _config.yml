@@ -23,8 +23,8 @@ repository               : "burnsoftnet/MyGunCollection"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "BSLogo_64x64.png"
+  name             : "External links"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
